@@ -1,21 +1,27 @@
 .back{
+    box-sizing: border-box;
     margin: 0px auto;
-    width: 80%;
+    width: 40%;
+    height: 700px;
     min-width: 1000px;
-    background-color: bisque;
+    /*background-color: bisque;*/
+    display: flex;
+    padding-top: 120px;
+    padding-left: 40px;
 }
-
 .img{
     margin: 0px auto;
     width: 180px;
     height: 180px;
 }
 .blockimg{
+    margin: 0px auto;
+    float: left;
     box-sizing: content-box;
     margin: 20px 20px 20px 20px;
-    padding: 20px 20px 20px 20px;
-    width: 100px;
-    height: 100px;
+    padding: 15px 15px 15px 15px;
+    width: 180px;
+    height: 180px;
     border-radius: 35px 35px 35px 35px;
     -moz-border-radius: 35px 35px 35px 35px;
     -webkit-border-radius: 35px 35px 35px 35px;
@@ -31,13 +37,15 @@
 
 
 .par{
+    margin: 0px auto;
+    float: left;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     text-align: justify;
     margin: 20px 20px 20px 20px;
-    padding: 10px 10px 10px 10px;
+    padding: 15px 15px 15px 15px;
     width: 600px;
-    height: 200px;
+    height: 180px;
     min-width: 600px;
     background-color: #f0f0f0;
 }

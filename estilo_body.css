@@ -1,1 +1,36 @@
-/* */
+.back{
+    margin: 0px auto;
+    width: 80%;
+    height: 1000px;
+    min-width: 2000px;
+}
+
+.img{
+    margin: 0px auto;
+}
+.blockimg{
+    margin: 20px 20px 20px 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 35px 35px 35px 35px;
+    -moz-border-radius: 35px 35px 35px 35px;
+    -webkit-border-radius: 35px 35px 35px 35px;
+    border: 0px solid #000000;
+}
+.backimg1{
+    background-color: #00ffa5;
+    
+}
+.backimg2{
+    background-color: #98e3ff;
+}
+
+
+.par{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+    width: 40%;
+    height: 300px;
+    min-width: 1000px;
+    background-color: #f0f0f0;
+}

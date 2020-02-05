@@ -28,11 +28,11 @@
     border: 0px solid #000000;
 }
 .backimg1{
-    background-color: #00ffa5;
+    background-color: #ffed3e;
     
 }
 .backimg2{
-    background-color: #98e3ff;
+    background-color: #c0ff98;
 }
 
 
@@ -43,9 +43,12 @@
     font-size: 15px;
     text-align: justify;
     margin: 20px 20px 20px 20px;
-    padding: 15px 15px 15px 15px;
+    padding: 15px 25px 15px 25px;
     width: 600px;
     height: 180px;
     min-width: 600px;
     background-color: #f0f0f0;
+    border-radius: 35px 35px 35px 35px;
+    -moz-border-radius: 35px 35px 35px 35px;
+    -webkit-border-radius: 35px 35px 35px 35px;
 }
